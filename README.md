@@ -1,6 +1,7 @@
 #在全局注册该组件：
 
-```import breadcrumb from './components/breadcrumb/src/breadcrumb.vue';
+```
+import breadcrumb from './components/breadcrumb/src/breadcrumb.vue';
 import breadcrumb_item from './components/breadcrumb/src/breadcrumb-item.vue';
 Vue.component('v-breadcrumb', breadcrumb);
 Vue.component('v-breadcrumb-item', breadcrumb_item);
