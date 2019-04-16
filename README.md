@@ -30,4 +30,5 @@ to                                路由跳转 放置vue路由                  
 ```
 效果
 
+![](https://github.com/Essjs/vue-/blob/master/img/b.PNG)
 
